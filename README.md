@@ -2,6 +2,20 @@
 
 Building production AI systems: RAG pipelines, LLM agents, fine-tuning, workflow automation.
 
+**Site with live demos: [titov-ai.ru](https://titov-ai.ru)**
+
+### Live demos (no signup, run in browser)
+
+- [Site checker](https://titov-ai.ru/proverka/) — crawls 15 pages in 26 seconds, finds SEO and technical issues
+- [Parser demo](https://titov-ai.ru/parser/) — extracts 100 items in 4 seconds, exports to Excel
+- [AI visibility check](https://titov-ai.ru/neyroset/) — what LLMs say about your company, 5 questions in 13 seconds
+
+### In production
+
+- **Chat widget** — Shadow DOM isolation, SSE streaming, GigaChat backend. Running on titov-ai.ru
+- **Telegram bot** [@titovai_bot](https://t.me/titovai_bot) — price-aware assistant with human handoff
+- **Lead monitoring with AI filter** — 1000+ relevant leads selected since April 2026
+
 ## Stack
 
 Python · FastAPI · LangChain · HuggingFace · PyTorch · Qdrant · ChromaDB · Neo4j · PostgreSQL · Docker · pytest · OpenAI / Claude / DeepSeek · n8n · pandas
@@ -53,4 +67,5 @@ Python · FastAPI · LangChain · HuggingFace · PyTorch · Qdrant · ChromaDB �
 
 ## Contact
 
-Telegram: [@vadimka163](https://t.me/vadimka163)
+- Site: [titov-ai.ru](https://titov-ai.ru)
+- Telegram: [@vadimka163](https://t.me/vadimka163)
